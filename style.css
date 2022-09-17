@@ -1,15 +1,12 @@
 footer {
-    border-radius: 10px; 
-    border-width: 3px; 
-    border-style: outset; 
-    border-color: #3CB371;
-    height:40px;
+    border-radius: 10px;
+    height: 70px;
+    background: url(https://www.thonky.com/legend-of-zelda/zelda-map.png);
 }
 
-header {
-    border-radius: 10px;
-    border-width: 3px;
-    border-style: outset;
-    border-color: #3CB371;
-    height: 40px;
+.gr{
+    background-color:chartreuse;
+}
+.yl{
+    background-color:darkgoldenrod;
 }
