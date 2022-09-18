@@ -13,6 +13,10 @@ form{
     background:	#E6E6FA;
 }
 
+ol{
+    text-align:center
+}
+
 nav{
     border-radius: 10px;
     background:#E6E6FA;
