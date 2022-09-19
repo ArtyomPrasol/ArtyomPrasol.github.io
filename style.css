@@ -11,9 +11,13 @@ div{
     margin-right: auto;
 }
 
+table{
+    width: 300px; 
+    border: 1px solid chartreuse; 
+    margin: auto
+}
+
 tb{
-    margin-left: auto;
-    margin-right: auto;
      text-align:center
 }
 
